@@ -1,0 +1,2 @@
+module MunicipeHelper
+end
